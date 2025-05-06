@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there!
+I'm Mukhammad Ashurov, CPSC student at University of Calgary. This github profile was created in order to track my progress.  
 
 <!--
 **mukha-cmd/mukha-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
